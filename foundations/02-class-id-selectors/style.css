@@ -1,11 +1,15 @@
 .Odd {
-    background-color: rgb(238, 147, 177);
+    background-color: rgb(238, 141, 141);
     font-family: Verdana, "DejaVu sans", sans-serif;
 }
-.Odd.Bigger {
+.Bigger {
     font-size: 24px;
 }
 #Unique {
     color: blue;
     font-size: 36px;
+}
+.Green {
+    background-color: lightgreen;
+    font-weight: bold;
 }
