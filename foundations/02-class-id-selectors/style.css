@@ -2,3 +2,10 @@
     background-color: rgb(238, 147, 177);
     font-family: Verdana, "DejaVu sans", sans-serif;
 }
+.Odd.Bigger {
+    font-size: 24px;
+}
+#Unique {
+    color: blue;
+    font-size: 36px;
+}
